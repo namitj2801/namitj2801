@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Namit Jain</h1>
+<h3 align="center">A passionate FULL-STACK web developer from India</h3>
+
+- 📫 How to reach me **namitj2801@gmail.com**
+
+
 # 💫 About Me:
 🔭 I’m currently upskilling myself!<br>👯 I’m looking to collaborate on scalable Full stack projects<br>🤝 I’m Looking For Mentorship in advanced web architecture <br>🌱 I’m currently learning to make interactive and modern websites<br>💬 Ask me about incorporating smooth animations<br>
 
