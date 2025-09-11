@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Namit Jain</h1>
 <h3 align="center">A passionate FULL-STACK web developer from India</h3>
 
